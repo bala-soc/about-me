@@ -44,9 +44,6 @@ Each practical project should include:
 - Add a small Python utility with tests and sample input/output.
 - Improve each repository so a reviewer can reproduce the work without guessing.
 
-## Certifications and learning
-Only list certifications with accurate titles, issuing organisations, verification details, and current status. Keep planned training separate from completed certifications.
-
 ## Contact
 - LinkedIn: [balachandran-r](https://www.linkedin.com/in/balachandran-r/)
 - GitHub: [bala-soc](https://github.com/bala-soc)
