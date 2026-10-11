@@ -1,26 +1,23 @@
 # Balachandran R | Aspiring SOC Analyst
 
-**Focus:** SOC Operations • SIEM • Log Analysis • Threat Detection • Incident Response
+**Target role:** SOC Analyst L1  
+**Focus:** SIEM monitoring • Security log analysis • Alert triage • Incident documentation
 
-I am preparing for an entry-level SOC Analyst role, with a focus on security log analysis, alert investigation, SIEM queries, and incident documentation.
+I am preparing for an entry-level SOC role and building practical, reproducible security investigations using Splunk, Windows Event Logs, Sysmon, Linux logs, and Python fundamentals.
 
 ## Core Skills
 - **SIEM:** Splunk, SPL
-- **Endpoint telemetry:** Windows Event Logs, Sysmon
-- **Log analysis:** Windows, Linux, DNS, HTTP, and authentication logs
-- **Security operations:** Alert triage, event correlation, MITRE ATT&CK, incident reporting
+- **Endpoint & logs:** Windows Event Logs, Sysmon, Linux, DNS and HTTP logs
+- **SOC workflow:** Alert triage, event correlation, timeline building, MITRE ATT&CK mapping, incident reporting
 - **Scripting:** Python fundamentals
 
 ## Featured Projects
-- [Splunk SIEM Log Analysis](https://github.com/bala-soc/Splunk-Projects) — SPL searches and log investigation exercises
-- [Windows and Sysmon Log Analysis](https://github.com/bala-soc/Log-Analysis-Projects) — endpoint and authentication telemetry
-- [Windows Forensics](https://github.com/bala-soc/Windows-Forensics-Projects) — Windows artifacts and evidence collection
+- [Splunk SIEM Log Analysis](https://github.com/bala-soc/Splunk-Projects)
+- [Windows & Sysmon Log Analysis](https://github.com/bala-soc/Log-Analysis-Projects)
+- [Windows Forensics](https://github.com/bala-soc/Windows-Forensics-Projects)
 
 ## Additional Projects
-[Active Directory Monitoring](https://github.com/bala-soc/Active-Directory-Monitoring-Projects) •
-[Vulnerability Management](https://github.com/bala-soc/Vulnerability-Management-Projects) •
-[Security Assessment](https://github.com/bala-soc/Security-Assessment-Projects) •
-[Malware Analysis](https://github.com/bala-soc/Malware-Analysis-Projects)
+[Active Directory Monitoring](https://github.com/bala-soc/Active-Directory-Monitoring-Projects) • [Vulnerability Management](https://github.com/bala-soc/Vulnerability-Management-Projects) • [Security Assessment](https://github.com/bala-soc/Security-Assessment-Projects) • [Malware Analysis](https://github.com/bala-soc/Malware-Analysis-Projects)
 
 ## Certification & Education
 - **Certified Ethical Hacker (CEH v13)** — valid through May 2027
@@ -29,3 +26,5 @@ I am preparing for an entry-level SOC Analyst role, with a focus on security log
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/balachandran-r/) • [GitHub](https://github.com/bala-soc)
+
+> Portfolio projects are learning exercises. Each repository should describe only work that has actually been implemented and tested.
