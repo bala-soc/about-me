@@ -72,11 +72,11 @@ My practical project reports aim to include:
 
 ## 📜 Certification & Education
 
-- Certified Ethical Hacker (CEH v13) — **please verify the current certification status and validity date before relying on this line**
+- **Certified Ethical Hacker (CEH v13)** — certification valid through **May 2027**
 - Executive Postgraduate programme in Ethical Hacking and Cybersecurity
 - B.Tech in Information Technology
 
-> Keep only credentials you can substantiate. Add issuer links or credential verification where available, and do not publish a certificate ID if you prefer to keep it private.
+> Keep credential details accurate and add issuer/verification links where available. Avoid publishing private certificate identifiers.
 
 ## 🤝 Connect
 
