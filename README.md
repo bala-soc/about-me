@@ -76,7 +76,7 @@ My practical project reports aim to include:
 - Executive Postgraduate programme in Ethical Hacking and Cybersecurity
 - B.Tech in Information Technology
 
-> Keep credential details accurate and add issuer/verification links where available. Avoid publishing private certificate identifiers.
+
 
 ## 🤝 Connect
 
@@ -85,4 +85,4 @@ My practical project reports aim to include:
 
 ---
 
-**Portfolio scope:** Projects here are independent learning exercises and controlled lab work. They are not claims of production SOC experience. Any findings should be read in the context and limits stated in the individual project.
+
